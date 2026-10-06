@@ -1,0 +1,16 @@
+{
+  "purchase_price": 700000,
+  "down_payment_pct": 0.20,
+  "mortgage_rate": 0.0475,
+  "amortization_years": 25,
+  "monthly_rent": 4800,
+  "vacancy_pct": 0.05,
+  "annual_property_tax": 4800,
+  "annual_insurance": 1800,
+  "monthly_maintenance_pct": 0.08,
+  "monthly_utilities": 150,
+  "closing_costs_pct": 0.015,
+  "rehab_cost": 50000,
+  "after_repair_value": 800000,
+  "refinance_ltv": 0.80
+}

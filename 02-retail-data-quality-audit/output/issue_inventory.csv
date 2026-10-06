@@ -1,0 +1,9 @@
+issue,lines,pct_of_lines,note
+Missing CustomerID,135080,24.93,"Cannot be used for customer-level analysis (retention, RFM)"
+Missing Description,1454,0.27,Product cannot be identified by name
+Cancellation lines (InvoiceNo starts with C),9288,1.71,Negative quantities; must not be counted as sales
+"Non-positive quantity, not a cancellation",1336,0.25,"Stock adjustments, damaged or lost goods"
+Non-positive unit price,2517,0.46,Zero-price lines (often adjustments or free items)
+Non-product stock codes,2995,0.55,"Postage, fees, manual entries, samples, not merchandise"
+Exact duplicate rows,5268,0.97,Identical on all 8 fields
+Stock codes with >1 description,112742,20.8,Same product coded with different names

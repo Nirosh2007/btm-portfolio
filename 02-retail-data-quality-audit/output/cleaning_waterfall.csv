@@ -1,0 +1,7 @@
+step,lines_removed,revenue_removed
+Cancellation lines,9288,0
+Non-positive quantity (adjustments),1336,0
+Non-positive unit price,1181,0
+"Non-product stock codes (postage, fees, manual)",2379,395650
+Exact duplicate rows,5221,24214
+"Originals later fully cancelled (matched by customer, product, qty)",3075,396817

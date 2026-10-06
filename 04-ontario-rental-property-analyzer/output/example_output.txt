@@ -1,0 +1,26 @@
+{
+  "cash_invested": 200500,
+  "monthly_mortgage_payment": 3177.75,
+  "noi_annual": 41712,
+  "cap_rate_pct": 5.96,
+  "annual_cash_flow": 3579,
+  "monthly_cash_flow": 298,
+  "cash_on_cash_return_pct": 1.79,
+  "dscr": 1.09,
+  "brrrr": {
+    "refinance_loan": 640000,
+    "cash_pulled_out": 80000,
+    "cash_left_in_deal": 120500,
+    "post_refi_monthly_cash_flow": -156,
+    "post_refi_cash_on_cash_pct": -1.55
+  }
+}
+
+Break-even monthly rent (cash flow = $0): $4,457  vs. assumed $4,800
+
+Monthly cash flow sensitivity (rows = mortgage rate, cols = monthly rent)
+rate \ rent | $4,320 | $4,800 | $5,280
+ 3.75%     |     188 |     606 |   1,023
+ 4.75%     |    -119 |     298 |     716
+ 5.75%     |    -442 |     -24 |     393
+ 6.75%     |    -778 |    -360 |      57
